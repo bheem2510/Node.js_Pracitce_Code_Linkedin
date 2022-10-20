@@ -1,0 +1,21 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "A countdown clock",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index --time 5"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "timers"
+  ],
+  "author": "Eve Porcello",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "tiny-timer": "^1.6.0"
+  }
+}
