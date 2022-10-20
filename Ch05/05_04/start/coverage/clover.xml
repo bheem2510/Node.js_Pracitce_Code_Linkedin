@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1655841731800" clover="3.2.0">
+  <project timestamp="1655841731800" name="All files">
+    <metrics statements="27" coveredstatements="17" conditionals="4" coveredconditionals="1" methods="7" coveredmethods="2" elements="38" coveredelements="20" complexity="0" loc="27" ncloc="27" packages="1" files="3" classes="3"/>
+    <file name="app.js" path="/Users/eveporcello/Desktop/ExerciseFiles/Ch05/05_04/start/src/app.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="dictionary-routes.js" path="/Users/eveporcello/Desktop/ExerciseFiles/Ch05/05_04/start/src/dictionary-routes.js">
+      <metrics statements="11" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+    </file>
+    <file name="lib.js" path="/Users/eveporcello/Desktop/ExerciseFiles/Ch05/05_04/start/src/lib.js">
+      <metrics statements="11" coveredstatements="7" conditionals="4" coveredconditionals="1" methods="3" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
