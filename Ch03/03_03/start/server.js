@@ -8,6 +8,7 @@ app.get("/dictionary", (req, res) => {
   res.json(skiTerms);
 });
 
+
 app.listen(3000, () =>
   console.log("ski dictionary running at 3000")
 );
